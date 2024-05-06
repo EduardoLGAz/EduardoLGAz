@@ -6,7 +6,8 @@
 <br><br>
 <div align="center" >  
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLGAz)](https://github.com/EduardoLGAz/github-readme-stats)
+  ![EduardoLGAz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoLGAz&show_icons=true&theme=dark)
+
   
 </div>
 <br>
