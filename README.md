@@ -16,7 +16,7 @@
 - 🌱 Aprendendo mais sobre Front-End
 - 🤔 Aceitando ajuda no design de todas as coisas (inclusive meu perfil)
 - 💬 Pergunte-me sobre COBOL
-- 🤯 Fun fact: O animal conhecido como "Firefox" (origem do nome e utilizado no icone do navegador), não é uma raposa.
+- 🤯 Fun fact: O animal conhecido como "Firefox" não é uma raposa.
 <br>
 <br>
 <div align="center" >
